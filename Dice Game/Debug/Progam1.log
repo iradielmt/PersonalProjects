@@ -1,0 +1,3 @@
+﻿  BeatThat.cpp
+C:\Users\ITMan\OneDrive\Documents\PersonalProjects\Dice Game\BeatThat.cpp(41,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Progam1.vcxproj -> C:\Users\ITMan\OneDrive\Documents\PersonalProjects\Dice Game\Debug\Progam1.exe
