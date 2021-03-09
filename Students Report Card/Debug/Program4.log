@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\ITMan\OneDrive\Documents\PersonalProjects\Program4\main.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ITMan\OneDrive\Documents\PersonalProjects\Program4\main.cpp(18,25): warning C4018: '<': signed/unsigned mismatch
+  Program4Utility.cpp
+C:\Users\ITMan\OneDrive\Documents\PersonalProjects\Program4\Program4Utility.cpp(97,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ITMan\OneDrive\Documents\PersonalProjects\Program4\Program4Utility.cpp(105,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ITMan\OneDrive\Documents\PersonalProjects\Program4\Program4Utility.cpp(108,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Program4.vcxproj -> C:\Users\ITMan\OneDrive\Documents\PersonalProjects\Program4\Debug\Program4.exe
