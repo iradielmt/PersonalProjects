@@ -1,0 +1,4 @@
+C:\Users\ITMan\OneDrive\Documents\PersonalProjects\Program2\Debug\Program2.exe
+C:\Users\ITMan\OneDrive\Documents\PersonalProjects\Program2\Debug\Program2.pdb
+C:\Users\ITMan\OneDrive\Documents\PersonalProjects\Pull It or Push It\Debug\Program2.exe
+C:\Users\ITMan\OneDrive\Documents\PersonalProjects\Pull It or Push It\Debug\Program2.pdb
