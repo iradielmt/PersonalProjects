@@ -1,6 +1,6 @@
-create schema CS3100Final;
+create schema CafeteriaDatabase;
 
-use CS3100Final;
+use CafeteriaDatabase;
 
 create table Students (
 	StudentID varchar(6) NOT NULL,
