@@ -124,3 +124,4 @@ from StudentPayments;
 -- #7
 select *
 from StudentBalance;
+		     
